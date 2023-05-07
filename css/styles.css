@@ -1,0 +1,38 @@
+ /* external CSS: */
+
+        body {
+            background-color: #EAF6F6;
+        }
+
+        hr {
+            background-color: #EAF6F6;
+
+            /* height box wize kaj kore r amra ta dakhte parvo
+            pesticide crome extention use kore. */
+            /* height: 4px;  */
+
+            /* width: 150px; //aita recommanded na karon aita responsiv na.*/
+
+            /* aita recommanded: */
+            width: 30%;
+
+            /* border:  */
+            border-style: none;
+            border-top-style: dotted;
+            border-color: gray;
+            border-width: 5px;
+
+        }
+
+        h1{
+            color: #66BFBF;
+        }
+        
+        h3{
+            color: #66BFBF;
+        }
+
+        img {
+            height: 140px;
+        }
+  
